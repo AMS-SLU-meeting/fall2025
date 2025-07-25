@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #f6f8fa;
+    background: #00244D;
     color: #222;
 }
 
 header {
     background: #003DA5;
-    color: #fff;
+    color: #FFFFFF;
     padding: 1rem 2rem;
     text-align: center;
 }
@@ -18,7 +18,7 @@ header h1 {
 }
 
 nav a {
-    color: #fff;
+    color: #FFFFFF;
     margin: 0 1rem;
     text-decoration: none;
     font-weight: bold;
@@ -29,14 +29,14 @@ nav a:hover {
 }
 
 a, a:visited {
-    color: #0e4677;
+    color: #00244D;
 }
 
 main {
     max-width: 700px;
     margin: 2rem auto;
     padding: 1rem;
-    background: #fff;
+    background: #FFFFFF;
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.07);
 }
@@ -46,7 +46,7 @@ section {
 }
 
 h2 {
-    color: #3b5998;
+    color: #00244D;
 }
 
 ul {
